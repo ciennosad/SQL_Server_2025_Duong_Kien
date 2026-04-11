@@ -33,10 +33,26 @@
     (Có 1438 dòng nơi sinh và địa chỉ = NULL, đã được update nơi sinh thành 'Sao Hỏa')
     <img width="1914" height="1077" alt="image" src="https://github.com/user-attachments/assets/8fd681c7-0d9e-4d1d-9895-20ce83e718ca" />
     
+12. Tạo bảng SaoHoa gồm những sinh viên có nơi sinh ở 'Sao Hoả'
+    <img width="1912" height="1079" alt="Screenshot 2026-04-11 170554" src="https://github.com/user-attachments/assets/6e68690a-9121-4443-b45e-1f8a71012705" />
+ 
+13. Gõ lệnh xoá (delete) trong bảng SaoHoa những sinh viên cùng họ 'Dương'
+   <img width="1909" height="1078" alt="Screenshot 2026-04-11 172057" src="https://github.com/user-attachments/assets/0ff764b3-d571-4605-9bba-8f0e3b4abc5b" />
 
+   
+14. Xuất toàn bộ kết quả của các bước 6,7,8,9,10,11,12,13 ra file dulieu.sql
+    <img width="1911" height="1078" alt="Screenshot 2026-04-11 174819" src="https://github.com/user-attachments/assets/4c51524f-515f-4fa5-8568-c7b06ee2e615" />
 
+15. Xóa cơ sở dữ liệu đã tạo, sau khi xóa thành công, kiểm tra lại path đã làm ở bước 6
+    - Đã xóa cơ sở dữ liệu
+      <img width="1912" height="1079" alt="Screenshot 2026-04-11 174031" src="https://github.com/user-attachments/assets/b3d84f64-8a67-4c6f-950a-d308091217aa" />
 
+    - Kiểm tra path không còn
+      <img width="1915" height="1077" alt="Screenshot 2026-04-11 174131" src="https://github.com/user-attachments/assets/2a771082-ede3-4fe2-9d7f-7ddde7a8304b" />
 
+16. Mở file dulieu.sql của bước 14, chạy toàn bộ các lệnh này. REFRESH lại cây liệt kê các đatabase => kiểm chứng kết quả được tạo ra tương đương với các bước 6,7,8,9,10,11,12,13.
+    <img width="1911" height="1074" alt="Screenshot 2026-04-11 181120" src="https://github.com/user-attachments/assets/6669c408-1d77-40f5-b184-53d98326b9fe" />
 
+17. Upload file dulieu.sql lên github repository
 
 
