@@ -19,9 +19,22 @@
 6. Sử dụng giao diện đồ hoạ của ssms: Tạo cơ sở dữ liệu mới (create database)
    <img width="1897" height="1074" alt="Screenshot 2026-04-10 211944" src="https://github.com/user-attachments/assets/2c9280ec-6685-4968-93bd-794891e9628c" />
 7. Sử dụng giao diện đồ hoạ của ssms: Tạo bảng dữ liệu (create and design table)
-   <img width="1894" height="1074" alt="Screenshot 2026-04-10 224407" src="https://github.com/user-attachments/assets/e22eabbd-18e9-41d2-b42a-9973c44ffcbc" />
+   <img width="1910" height="1076" alt="image" src="https://github.com/user-attachments/assets/664815b5-cb9c-4509-a8b0-99cfe31ee86c" />
+
 8. Sử dụng giao diện đồ hoạ của ssms: Import dữ liệu từ file mẫu vào trong bảng
-   
+   <img width="1910" height="1078" alt="image" src="https://github.com/user-attachments/assets/30ebb1a6-ceff-4fa8-b737-f5114827cde5" />
+9. Mở cửa sổ mới để gõ lệnh trong ssms: GÕ lệnh để kiểm tra xem số dòng của bảng dữ liệu sau khi import, kết quả ok sẽ khoảng 12020 dòng.
+    <img width="1916" height="1075" alt="image" src="https://github.com/user-attachments/assets/56b1c8f5-9246-4c47-8618-5107c30e8e1d" />
+
+10. Trong cửa sổ mới để gõ lệnh: Gõ lệnh để thêm (insert) 1 row vào bảng, với dữ liệu là thông tin cá nhân của sv đang làm bài
+   <img width="1911" height="1076" alt="image" src="https://github.com/user-attachments/assets/abac0805-f94b-4722-9311-f140802bbe86" />
+
+11. Trong cửa sổ mới để gõ lệnh: Gõ lệnh để cập nhật(update) trường noisinh thành 'Sao Hoả' cho những dòng có noisinh và diachi đều là NULL.
+    (Có 1438 dòng nơi sinh và địa chỉ = NULL, đã được update nơi sinh thành 'Sao Hỏa')
+    <img width="1914" height="1077" alt="image" src="https://github.com/user-attachments/assets/8fd681c7-0d9e-4d1d-9895-20ce83e718ca" />
+    
+
+
 
 
 
